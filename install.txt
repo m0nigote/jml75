@@ -1,0 +1,3 @@
+Tendriamos primeramente que crear un directorio nuevo en el hosting. Luego crear una conexion al repositorio de GITHUB y hacer un pull completo al nuevo directorio.
+Crear la base de datos mediante el script de recuperación de dicha base de datos que exportamos como copia de seguridad previamente.
+Modificar los archivos config del proyecto en el nuevo hosting y configurar el usuario y contraseña de la base de datos a la que lo queramos conectar.
